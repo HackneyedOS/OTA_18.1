@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1781724771,
-      "filename": "lineage-18.1-2026061719-kuntao.zip",
-      "id": "9d2c3be68b92e3b2b0918de86b4ecf17c0b9c10ab9ee4aa95f1e3ef8bbdef8d1",
+      "datetime": 1783069533,
+      "filename": "lineage-18.1-2026070309-kuntao.zip",
+      "id": "926c391ece08891e046de41e281f398f71f8da7b74ad09711632e9c0e5b1ba5c",
       "romtype": "UNOFFICIAL",
-      "size": 718800029,
-      "url": "https://github.com/Hackneyed-releases/kuntao/releases/download/2026061719/lineage-18.1-2026061719-kuntao.zip",
+      "size": 718794183,
+      "url": "https://github.com/Hackneyed-releases/kuntao/releases/download/2026070309/lineage-18.1-2026070309-kuntao.zip",
       "version": "18.1"
     }
   ]
